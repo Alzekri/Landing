@@ -15,7 +15,7 @@
     <div class="col-sm-12 col-md-6 col-lg-2 mb-4">
       <img src="../assets/tech-1.png" alt="" class="img-fluid" />
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-2 mb-4">
+    <div class="col-sm-12 col-md-6  col-lg-2 mb-4">
       <img src="../assets/tech-3.png" alt="" class="img-fluid" />
     </div>
   </div>
