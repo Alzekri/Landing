@@ -15,7 +15,7 @@
       </div>
       <h3 class="text-warning text-uppercase">Graphic Design</h3>
       <pre class="text-center text-black-50">
-        Spanning 4 campuses nationwide providing education
+          campuses nationwide providing education
          to more than17,000 students. INTI's world
           class campuses .
       </pre>
