@@ -1,8 +1,5 @@
 <template>
-  <div
-    class="maindiv container-fluid text-center pt-5 pb-5"
-    id="this.$store.state.portfolio"
-  >
+  <div class="maindiv container-fluid text-center pt-5 pb-5" id="portfolio">
     <h1 class="text-warning fw-bold">MeetTeam</h1>
     <p class="text-black-50 text-center 5 m-auto p1">
       Spanning 4 campuses nationwide providing education to more than17,000

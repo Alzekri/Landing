@@ -1,5 +1,5 @@
 <template>
-  <div class="c1 pb-2 pt-4 text-center" id="this.$store.state.services">
+  <div class="c1 pb-2 pt-4 text-center" id="services">
     <div class="container-fluid text-center mt-1 mb- position-relative">
       <img src="../assets/log2.png " class="img-fluid" alt="" />
       <h1>We Make This</h1>

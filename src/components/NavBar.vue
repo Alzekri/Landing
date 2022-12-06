@@ -28,34 +28,22 @@
             >
           </li>
           <li class="nav-item">
-            <a
-              class="nav-link active"
-              aria-current="page"
-              href="#this.$store.state.services"
+            <a class="nav-link active" aria-current="page" href="#services"
               >Services</a
             >
           </li>
           <li class="nav-item">
-            <a
-              class="nav-link active"
-              aria-current="page"
-              href="#this.$store.state.portfolio"
+            <a class="nav-link active" aria-current="page" href="#portfolio"
               >Portfolio</a
             >
           </li>
           <li class="nav-item">
-            <a
-              class="nav-link active"
-              aria-current="page"
-              href="#this.$store.state.footer"
+            <a class="nav-link active" aria-current="page" href="#footer"
               >About</a
             >
           </li>
           <li class="nav-item">
-            <a
-              class="nav-link active"
-              aria-current="page"
-              href="#this.$store.state.footer"
+            <a class="nav-link active" aria-current="page" href="#footer"
               >Contact</a
             >
           </li>
@@ -83,11 +71,6 @@
 <script>
 export default {
   name: "NavBar",
-  methods: {
-    cl(e) {
-      console.log(e);
-    },
-  },
 };
 </script>
 <style scoped lang="scss">

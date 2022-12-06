@@ -1,8 +1,5 @@
 <template>
-  <div
-    class="footer row text-center text-light ps-5 pb-5"
-    id="this.$store.state.footer"
-  >
+  <div class="footer row text-center text-light ps-5 pb-5" id="footer">
     <div class="col-sm-12 col-md-6 col-lg-4 text-start ps-5 pt-5">
       <img class="img-fluid mb-5" src="../assets/logo.png" alt="" />
       <h4 class="text-white-50 mb-5">
@@ -48,20 +45,11 @@
       >
         graphberry@gmail.com
       </div>
-      <ul class="list-unstyled text-start mt-5">
-        <FIcons
-          class="Ficons Ficons1 rounded-pill p-2"
-          :icon="['fab', 'facebook']"
-        />
-        <FIcons class="rounded-pill p-2" :icon="['fab', 'twitter']" />
-        <FIcons
-          class="Ficons Ficons3 rounded-pill"
-          :icon="['fab', 'linkedin']"
-        />
-        <FIcons
-          class="Ficons Ficons4 rounded-pill p-2"
-          :icon="['fab', 'youtube']"
-        />
+      <ul class="list-unstyled text-center mt-5">
+        <FIcons class="Ficons rounded-pill p-2" :icon="['fab', 'facebook']" />
+        <FIcons class="Ficons rounded-pill p-2" :icon="['fab', 'twitter']" />
+        <FIcons class="Ficons rounded-pill p-2" :icon="['fab', 'linkedin']" />
+        <FIcons class="Ficons rounded-pill p-2" :icon="['fab', 'youtube']" />
       </ul>
     </div>
   </div>
