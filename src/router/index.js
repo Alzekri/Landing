@@ -10,7 +10,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory("/list-with-products/"),
+  history: createWebHistory(process.env.VUE_APP_TILTLE),
   routes,
 });
 
